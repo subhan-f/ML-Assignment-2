@@ -27,6 +27,10 @@ This report presents the implementation and results of two tasks involving linea
 - **Admission Chances**:
   - **R2 score using Normal Equations**: `r2_normal_eq`
   - **R2 score using Sklearn LinearRegression**: `r2_sklearn`
+ ![Q1-Figure](https://github.com/subhan-f/ML-Assignment-2/assets/67074140/c2af9f72-c5bd-4475-98cd-41c5b10e70e0)
+![Q1-Output](https://github.com/subhan-f/ML-Assignment-2/assets/67074140/04913341-d9ca-46a6-b285-cb42dee03803)
+
+
 
 ## Question 2: Logistic Regression
 
@@ -37,6 +41,14 @@ This report presents the implementation and results of two tasks involving linea
 - **Model Comparison**: The scratch implementation is compared with the `LogisticRegression` model from `sklearn`.
 
 ### Results
+### Results
+- **Accuracy (Scratch)**: `accuracy_scratch`
+- **Confusion Matrix (Scratch)**: `conf_matrix_scratch`
+
+- **Accuracy (Built-in)**: `accuracy_builtin`
+- **Confusion Matrix (Built-in)**: `conf_matrix_builtin`
+  
+![Q2-Output](https://github.com/subhan-f/ML-Assignment-2/assets/67074140/d674e38a-6372-4334-ac9c-a33da47a1901)
 
 
 ## Conclusion
